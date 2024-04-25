@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
-                    // test lenalei branch 4.0
+                    // anzac day
                 }
             }
         }
